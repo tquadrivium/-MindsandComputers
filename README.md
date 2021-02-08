@@ -39,17 +39,22 @@ This book is an excellent introduction to some of the most important problems wi
 - Games
 
 - Machine Reasoning
+
 - Machines and Language
+
 - Human Reasoning
+
 - Human Language
+
 - Meaning
+
 - Representation
+
 - Artificial Neural Networks
+
 - Minds and Computers
 
 ### 2.关于读书会
-
-读书会由各个高校的哲学在读研究生共同组建，最初由Hao ZHAN发起。
 
 读书会项目地址：https://github.com/tquadrivium
 
