@@ -4,6 +4,8 @@
 
 This book is an excellent introduction to some of the most important problems within the philosophy of artificial intelligence... Carter's book is in fact highly interdisciplinary, but he has clearly succeeded in integrating some very crucial topics regarding artificial intelligence in a clever and thought-provoking manner... The book will be an excellent choice as a textbook to be used for a university course introducing important and interesting problems within the philosophy of artificial intelligence.
 
+本书内容较为简单，适用于研究生同学入门。
+
 [[点击在线阅读]]( https://tquadrivium.github.io/An-Introduction-to-the-Philosophy-of-Language/)
 
 关注公众微信号「三艺四术」，获取更多读书会信息。
@@ -55,11 +57,13 @@ This book is an excellent introduction to some of the most important problems wi
 
 读书会公众号：三艺四术
 
-### 4.学习形式
+### 4.学习形式与时间
 
 采用线上学习的形式（微信群+腾讯会议），每周阅读 Minds and Computers 的2章内容。每周先由领读人梳理章节内容（20-30分钟），然后大家对阅读时所遇到的问题和难点进行讨论（40-80分钟）
 
 每次读书会的内容会以文本和视频的形式发布在该项目中，方便没能参与到讨论中的朋友观看。
+
+读书会进行时间为每周六晚19:00-21：00。
 
 ### 5.参与方法
 
